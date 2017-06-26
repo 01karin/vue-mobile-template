@@ -2,6 +2,7 @@
 
 > A Vue.js project
 
+a vue project for mobile
 ## Build Setup
 
 ``` bash
